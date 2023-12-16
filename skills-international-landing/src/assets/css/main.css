@@ -1896,9 +1896,12 @@ header.header-fixed {
   font-weight: 700;
   padding: 15px 22px;
   text-transform: uppercase;
+  cursor: pointer;
 }
 .menu > li > a i {
   margin-right: 5px;
+  cursor: pointer;
+
 }
 .menu > li:nth-of-type(6n + 1) > a {
   color: #8dc63f;

@@ -1,0 +1,23 @@
+
+#whatsapp-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    z-index: 999;
+}
+
+#whatsapp-link {
+    display: block;
+    width: 184px;
+    height: 50px;
+    background: #25d366;
+    border-radius: 18px;
+    text-align: center;
+    line-height: 50px;
+    color: white;
+}
+
+#whatsapp-link img {
+    width: 30px; /* Adjust image size as needed */
+    height: 30px; /* Adjust image size as needed */
+}
